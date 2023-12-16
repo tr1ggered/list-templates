@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  TEST1.cpp
+C:\Users\tigru\OneDrive\Рабочий стол\programming\list1111\Solution1\project1111\Header.h(175): warning C4715: rut::miit::SingleList<int>::operator[]: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\tigru\OneDrive\Рабочий стол\programming\list1111\Solution1\x64\Debug\TEST1.lib и объект C:\Users\tigru\OneDrive\Рабочий стол\programming\list1111\Solution1\x64\Debug\TEST1.exp
+  TEST1.vcxproj -> C:\Users\tigru\OneDrive\Рабочий стол\programming\list1111\Solution1\x64\Debug\TEST1.dll
